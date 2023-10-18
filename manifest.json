@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"id": "obsidian-prettier",
+	"name": "Obsidian Prettier",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "format with prettier",
+	"author": "Gal Schlezinger",
+	"authorUrl": "https://gal.hagever.com",
+	"fundingUrl": "https://github.com/schniz",
+	"isDesktopOnly": false
+}
